@@ -507,18 +507,19 @@ header nav .form i {
   padding-top: var(--section-padding);
   overflow: hidden;
   text-align: center;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
 
 
 }
 .about img {
   max-width: 100%;
   position: relative;
+  padding-bottom: 10px;
 }
 @media (max-width: 767px) {
   .about img {
-    bottom: -60px;
+    bottom: -100px;
     margin-top: -60px;
   }
 }
