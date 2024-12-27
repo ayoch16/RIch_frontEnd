@@ -507,6 +507,10 @@ header nav .form i {
   padding-top: var(--section-padding);
   overflow: hidden;
   text-align: center;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+
+
 }
 .about img {
   max-width: 100%;
