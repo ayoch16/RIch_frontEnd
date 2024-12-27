@@ -515,7 +515,8 @@ header nav .form i {
 .about img {
   max-width: 100%;
   position: relative;
-  padding-bottom: 10px;
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
 @media (max-width: 767px) {
   .about img {
