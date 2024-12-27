@@ -520,7 +520,7 @@ header nav .form i {
 }
 @media (max-width: 767px) {
   .about img {
-    bottom: -100px;
+    bottom: -200px;
     margin-top: -60px;
   }
 }
